@@ -1,6 +1,6 @@
 # ExercicioOOP
 
-# shape.php
+# Shape.php
 O ficheiro shape.php é o ficheiro principal e nele encontra-se a Class Shape,a classe base.
 
  A Class Shape é constituda na sua essência por : <br>
